@@ -15,7 +15,7 @@ ________________________________________
 •	Construction Tools: AutoCAD, Revit, MS Project
 ________________________________________
 💼 Portfolio
-Explore my Portfolio Website (https://d3tyojx957hyju.cloudfront.net). It showcases my projects, certifications, and professional achievements.
+Explore my Portfolio Website (https://http://bles-port.s3-website-us-east-1.amazonaws.com). It showcases my projects, certifications, and professional achievements.
 ________________________________________
 🚀 Projects
 Here are some of the exciting projects I've worked on:
@@ -41,16 +41,7 @@ ________________________________________
 •	Twitter: @AjeBlessed
 Feel free to reach out for collaboration, mentorship, or a friendly chat about technology and innovation!
 ________________________________________
-📈 GitHub Stats
-________________________________________
-🚀 "Innovating one line of code at a time."
-- 👋 Hi, I’m @bluboy429
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 bluboy429/bluboy429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
