@@ -62,9 +62,9 @@ Here are some of the exciting projects I've worked on:
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [Blessedkikiope74@gmail.com](mailto:Blessedkikiope74@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ajeblessed](https://linkedin.com/in/ajeblessed)  
-- 🐦 Twitter: [@AjeBlessed](https://twitter.com/AjeBlessed)  
+- 📧 [Email](mailto:Blessedkikiope74@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/ajeblessed)  
+- 🐦 [Twitter](https://twitter.com/AjeBlessed)  
 
 ---
 
